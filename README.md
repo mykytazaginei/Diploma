@@ -1,8 +1,8 @@
-# Diploma Project: Toxicity Detector for Social Media Comments
+# Toxicity Detector for Social Media Comments
 
 ## Overview
 
-This project is a Bachelor's diploma work focused on developing a system for detecting toxic comments using Natural Language Processing (NLP). The system preprocesses input text, classifies it as "Toxic" or "Non-Toxic" using a trained model, and provides access to this functionality via a web API and a simple web interface.
+This project is focused on developing a system for detecting toxic comments using Natural Language Processing (NLP). The system preprocesses input text, classifies it as "Toxic" or "Non-Toxic" using a trained model, and provides access to this functionality via a web API and a simple web interface.
 
 ## Features
 
