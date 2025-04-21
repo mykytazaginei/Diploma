@@ -1,0 +1,9 @@
+# api/requirements.txt
+
+fastapi
+uvicorn[standard]
+scikit-learn == 1.6.1
+spacy == 3.8.5  
+joblib
+python-dotenv 
+gradio
